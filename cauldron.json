@@ -1,6 +1,29 @@
 {
-  "name":"visado-cauldron",
-  "nativeApps":[
+  "name": "visado-cauldron",
+  "nativeApps": [
+    {
+      "name": "Visado",
+      "platforms": [
+        {
+          "name": "android",
+          "versions": [
+            {
+              "name": "0.0.1",
+              "binary": null,
+              "codePush": {},
+              "container": {
+                "jsApiImpls": [],
+                "miniApps": [],
+                "nativeDeps": []
+              },
+              "isReleased": false,
+              "nativeDeps": [],
+              "yarnLocks": {}
+            }
+          ]
+        }
+      ]
+    }
   ],
-  "schemaVersion":"3.0.0"
+  "schemaVersion": "3.0.0"
 }
