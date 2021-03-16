@@ -5,7 +5,7 @@
     "manifest": {
       "override": {
         "url": "https://github.com/jdominguezr/visado-manifest.git",
-        "type": "partial"
+        "type": "full"
       }
     },
     "codePush": {
